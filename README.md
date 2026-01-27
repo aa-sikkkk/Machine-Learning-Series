@@ -1,49 +1,34 @@
 # Machine Learning Series
 
-Welcome to my Machine Learning Series repository! This repo contains all the code, projects, and learning materials from **Day 150 onwards** of my machine learning journey.
+Welcome to my Machine Learning Series repository! 
+This repository contains all the code, projects, and learning materials from **Day 150 onwards** of my machine learning journey.
 
 ## About
 
-This repository is dedicated to documenting my continuous learning and exploration in the field of Machine Learning. Starting from Day 150, you'll find various implementations, experiments, and projects that showcase different ML concepts, algorithms, and applications.
+This repository is a continuation of my exploration and learning in the field of Machine Learning. Starting from Day 150, I’ve documented various implementations, experiments, and projects that demonstrate different ML concepts, algorithms, and applications. It’s a space where I dive deeper into advanced topics and real-world use cases.
 
 ## Days Covered
 
-**Day 150 and onwards**
-
-This series represents the continuation of my machine learning journey, focusing on advanced topics, practical implementations, and real-world applications.
+This series begins at **Day 150** and continues onward. It focuses on:
+- Advanced topics in machine learning
+- Practical implementations of algorithms
+- Real-world applications and projects
 
 ## Structure
 
-Each day's work will be organized in its respective folder with:
-- Code implementations
-- Documentation
-- Learning notes
-- Project files (if applicable)
+The repository is organized into folders for each day. Inside each folder, you’ll typically find:
+- Code implementations for the concepts explored that day
+- Documentation explaining the work
+- Learning notes summarizing key takeaways
+- Project files, if applicable
 
 ## Topics
 
-As I progress through this series, topics will include (but are not limited to):
+Throughout this series, I’ll be covering a wide range of topics, including but not limited to:
 - Deep Learning
 - Neural Networks
 - Computer Vision
-- Natural Language Processing
+- Natural Language Processing (NLP)
 - Machine Learning Operations (MLOps)
 - Advanced algorithms and techniques
-- Real-world ML projects
-
-## Getting Started
-
-To explore the content:
-1. Clone this repository
-2. Navigate to the specific day's folder you're interested in
-3. Follow the instructions in each day's README (if available)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**Aashik Baruwal**
-
-Follow along with my machine learning journey!
+- Real-world machine learning projects
